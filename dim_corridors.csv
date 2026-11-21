@@ -1,0 +1,26 @@
+corridor_id,route_id,route_short_name,route_long_name,primary_stop_name,road_length_km,free_flow_speed_kmph,total_daily_trips,avg_headway_mins,service_tier,latitude,longitude
+COR_01,5,5,Pune Station Moledina Stand ⇆ Swargate,Harpale Vasti Fursungi,10.8,55,154,3.6,High-Frequency Trunk Route,18.4818,73.959503
+COR_02,H8,H8,Fursungi ⇆ Hadapsar Gadital,Aquarius Engineers,9.4,45,127,7.1,High-Frequency Trunk Route,18.534,73.661102
+COR_03,114,114,Bajirao Padale Chowk Mhalunge ⇆ Ma Na Pa Main Gate,Petrol Pump Pimple Nilakh,12.6,55,113,7.7,High-Frequency Trunk Route,18.5773363255066,73.7874221869017
+COR_04,301,301,Shewalewadi Depot ⇆ Katraj,Gandhi Acid Company,7.9,55,102,6.1,High-Frequency Trunk Route,18.574499,73.893097
+COR_05,H9,H9,Manjari Budruk ⇆ Hadapsar Gadital Solapur Road,Khandoba Mandir Corner,9.4,45,102,8.3,High-Frequency Trunk Route,18.455133715766,73.8733034377137
+COR_06,350,350,Sant Tukaram Maharaj Krida Sankul Dehugaon ⇆ Nigdi Tilak Chowk,Santoshi Mata Mandir,10.2,45,102,5.7,High-Frequency Trunk Route,18.4657135248523,73.9483921909695
+COR_07,372,372,Megapolis Phase 3 ⇆ Nigdi Bhakti Shakti Stand,Bham,11.1,55,100,7.8,High-Frequency Trunk Route,18.7997,73.869797
+COR_08,291,291,Hadapsar Gadital ⇆ Katraj Kondhwa Road,Pashan Tale,14.4,50,100,5.3,High-Frequency Trunk Route,18.537399,73.780998
+COR_09,167,167,Kesnand Phata Wagholi ⇆ Bhekrai Nagar,Borkar Vasti,8.5,55,100,6.3,High-Frequency Trunk Route,18.4888,74.045998
+COR_10,35,35,Mukai Chowk ⇆ Ma Na Pa Dengle Pul Nadikathi,Inamdar Vasti Solapur Road,11.6,55,92,5.9,High-Frequency Trunk Route,18.4879,74.112099
+COR_11,304,304,Bhosari Gavhane Vasti ⇆ Chinchwadgaon,Kamela Kondhwa Road,12.4,55,91,6.2,High-Frequency Trunk Route,18.4826232949063,73.8912109943225
+COR_12,42,42,Nigdi Bhakti Shakti ⇆ Gujarwadi Pmt Bus Stand,Vajewadi Phata,7.0,55,90,6.2,High-Frequency Trunk Route,18.7059,74.045601
+COR_13,189,189,Dhangar Vasti ⇆ Hadapsar Gadital,Military Hospital Vanawadi,12.6,45,88,5.7,High-Frequency Trunk Route,18.5020066754075,73.8903737068176
+COR_14,117,117,Dhayareshwar Mandir ⇆ Swargate Natraj Stand,Dhamale Vasti Nandegaon,8.2,55,88,16.0,High-Frequency Trunk Route,18.5539359978112,73.7239935994148
+COR_15,99,99,Kekan Gas ⇆ Kothrud Depot,Whaghale Phata,7.2,50,85,9.3,High-Frequency Trunk Route,18.7532052285538,74.2385995388031
+COR_16,98,98,Kesnand Phata Wagholi ⇆ Ganpati Matha,Garvare Chowk,16.0,45,84,8.0,High-Frequency Trunk Route,18.6576189004469,73.791145355384
+COR_17,149,149,Nigdi Bhakti Shakti Stand ⇆ Hadapsar Gadital,Malharnagri,16.2,50,83,7.6,High-Frequency Trunk Route,18.285101,74.141602
+COR_18,357,357,Bhosari Terminal ⇆ Pune Station Sassoon Road,Eva Multi Specialty Hospital,14.6,50,83,12.6,High-Frequency Trunk Route,18.562099,73.758698
+COR_19,43,43,Nigdi Bhakti Shakti Stand ⇆ Katraj,Soyrik Mangal Karyalay,9.5,50,80,6.7,High-Frequency Trunk Route,18.5769849225454,73.9686432480812
+COR_20,13,13,Shivaji Nagar ⇆ Upper Depot,Duffalapur Phata Panyachi Taki,7.5,50,78,7.5,High-Frequency Trunk Route,18.8068731628247,74.0843430161476
+COR_21,161,161,Zilla Parishad Shala Karegaon ⇆ Kesnand Phata Wagholi,Kadepathar Phata,13.3,45,77,13.6,High-Frequency Trunk Route,18.2800831184422,74.1559747652537
+COR_22,170,170,Yewalewadi ⇆ Pune Station Depot,Materewadi,10.9,45,77,7.4,High-Frequency Trunk Route,18.5689861293335,73.6613653665961
+COR_23,361,361,Bhosari Pmt Chowk ⇆ Alandi,Baupu Saheb Shelar Nagar,7.7,50,77,13.3,High-Frequency Trunk Route,18.4355428840785,73.8910979539366
+COR_24,4,4,Shivaji Nagar ⇆ Swargate,Trimurti Hall,11.5,50,76,6.8,High-Frequency Trunk Route,18.6495,73.775902
+COR_25,64,64,Nda 10 No. Gate ⇆ Bhekrai Nagar,Wakdewadi Navin St Stand,6.8,45,76,9.1,High-Frequency Trunk Route,18.5432354807414,73.8518304090473

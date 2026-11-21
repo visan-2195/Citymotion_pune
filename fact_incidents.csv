@@ -1,0 +1,41 @@
+incident_id,corridor_id,route_long_name,start_time,end_time,incident_type,severity,latitude,longitude
+INC_001,COR_05,Manjari Budruk ⇆ Hadapsar Gadital Solapur Road,2026-11-04 15:00:00,2026-11-04 16:00:00,Accident,Medium,18.455133715766,73.8733034377137
+INC_002,COR_19,Nigdi Bhakti Shakti Stand ⇆ Katraj,2026-11-02 22:00:00,2026-11-02 23:30:00,Signal Failure,Low,18.5769849225454,73.9686432480812
+INC_003,COR_07,Megapolis Phase 3 ⇆ Nigdi Bhakti Shakti Stand,2026-11-04 23:00:00,2026-11-04 23:45:00,Roadwork,Low,18.7997,73.869797
+INC_004,COR_08,Hadapsar Gadital ⇆ Katraj Kondhwa Road,2026-11-06 19:00:00,2026-11-06 20:30:00,Roadwork,Medium,18.537399,73.780998
+INC_005,COR_15,Kekan Gas ⇆ Kothrud Depot,2026-11-03 09:00:00,2026-11-03 10:30:00,Waterlogging,High,18.7532052285538,74.2385995388031
+INC_006,COR_11,Bhosari Gavhane Vasti ⇆ Chinchwadgaon,2026-11-06 08:00:00,2026-11-06 08:30:00,Signal Failure,Medium,18.4826232949063,73.8912109943225
+INC_007,COR_17,Nigdi Bhakti Shakti Stand ⇆ Hadapsar Gadital,2026-11-07 22:00:00,2026-11-07 23:30:00,Roadwork,High,18.285101,74.141602
+INC_008,COR_24,Shivaji Nagar ⇆ Swargate,2026-11-06 16:00:00,2026-11-06 17:30:00,Roadwork,Medium,18.6495,73.775902
+INC_009,COR_07,Megapolis Phase 3 ⇆ Nigdi Bhakti Shakti Stand,2026-11-02 14:00:00,2026-11-02 14:45:00,Accident,High,18.7997,73.869797
+INC_010,COR_15,Kekan Gas ⇆ Kothrud Depot,2026-11-07 08:00:00,2026-11-07 09:30:00,Signal Failure,Low,18.7532052285538,74.2385995388031
+INC_011,COR_10,Mukai Chowk ⇆ Ma Na Pa Dengle Pul Nadikathi,2026-11-03 15:00:00,2026-11-03 16:00:00,Roadwork,Medium,18.4879,74.112099
+INC_012,COR_13,Dhangar Vasti ⇆ Hadapsar Gadital,2026-11-02 17:00:00,2026-11-02 17:30:00,Roadwork,Low,18.5020066754075,73.8903737068176
+INC_013,COR_21,Zilla Parishad Shala Karegaon ⇆ Kesnand Phata Wagholi,2026-11-01 13:00:00,2026-11-01 13:30:00,Roadwork,Low,18.2800831184422,74.1559747652537
+INC_014,COR_09,Kesnand Phata Wagholi ⇆ Bhekrai Nagar,2026-11-02 04:00:00,2026-11-02 05:00:00,Accident,Low,18.4888,74.045998
+INC_015,COR_04,Shewalewadi Depot ⇆ Katraj,2026-11-05 03:00:00,2026-11-05 03:45:00,Waterlogging,Low,18.574499,73.893097
+INC_016,COR_22,Yewalewadi ⇆ Pune Station Depot,2026-11-06 13:00:00,2026-11-06 14:30:00,Signal Failure,Medium,18.5689861293335,73.6613653665961
+INC_017,COR_15,Kekan Gas ⇆ Kothrud Depot,2026-11-04 23:00:00,2026-11-04 23:45:00,Waterlogging,High,18.7532052285538,74.2385995388031
+INC_018,COR_20,Shivaji Nagar ⇆ Upper Depot,2026-11-01 18:00:00,2026-11-01 19:00:00,Accident,High,18.8068731628247,74.0843430161476
+INC_019,COR_11,Bhosari Gavhane Vasti ⇆ Chinchwadgaon,2026-11-06 08:00:00,2026-11-06 08:30:00,Roadwork,Low,18.4826232949063,73.8912109943225
+INC_020,COR_24,Shivaji Nagar ⇆ Swargate,2026-11-02 08:00:00,2026-11-02 08:45:00,Waterlogging,Low,18.6495,73.775902
+INC_021,COR_15,Kekan Gas ⇆ Kothrud Depot,2026-11-07 02:00:00,2026-11-07 02:45:00,Roadwork,Medium,18.7532052285538,74.2385995388031
+INC_022,COR_18,Bhosari Terminal ⇆ Pune Station Sassoon Road,2026-11-07 07:00:00,2026-11-07 08:00:00,Accident,Low,18.562099,73.758698
+INC_023,COR_19,Nigdi Bhakti Shakti Stand ⇆ Katraj,2026-11-07 16:00:00,2026-11-07 16:45:00,Signal Failure,Low,18.5769849225454,73.9686432480812
+INC_024,COR_04,Shewalewadi Depot ⇆ Katraj,2026-11-02 14:00:00,2026-11-02 14:45:00,Accident,Medium,18.574499,73.893097
+INC_025,COR_18,Bhosari Terminal ⇆ Pune Station Sassoon Road,2026-11-03 10:00:00,2026-11-03 10:30:00,Waterlogging,Medium,18.562099,73.758698
+INC_026,COR_24,Shivaji Nagar ⇆ Swargate,2026-11-03 11:00:00,2026-11-03 12:30:00,Accident,Medium,18.6495,73.775902
+INC_027,COR_01,Pune Station Moledina Stand ⇆ Swargate,2026-11-08 03:00:00,2026-11-08 03:30:00,Roadwork,High,18.4818,73.959503
+INC_028,COR_13,Dhangar Vasti ⇆ Hadapsar Gadital,2026-11-05 20:00:00,2026-11-05 20:30:00,Signal Failure,High,18.5020066754075,73.8903737068176
+INC_029,COR_09,Kesnand Phata Wagholi ⇆ Bhekrai Nagar,2026-11-07 10:00:00,2026-11-07 10:45:00,Accident,Low,18.4888,74.045998
+INC_030,COR_22,Yewalewadi ⇆ Pune Station Depot,2026-11-06 12:00:00,2026-11-06 13:30:00,Waterlogging,Medium,18.5689861293335,73.6613653665961
+INC_031,COR_08,Hadapsar Gadital ⇆ Katraj Kondhwa Road,2026-11-01 22:00:00,2026-11-01 23:00:00,Waterlogging,Medium,18.537399,73.780998
+INC_032,COR_22,Yewalewadi ⇆ Pune Station Depot,2026-11-02 07:00:00,2026-11-02 08:30:00,Waterlogging,High,18.5689861293335,73.6613653665961
+INC_033,COR_21,Zilla Parishad Shala Karegaon ⇆ Kesnand Phata Wagholi,2026-11-03 23:00:00,2026-11-04 00:30:00,Roadwork,High,18.2800831184422,74.1559747652537
+INC_034,COR_07,Megapolis Phase 3 ⇆ Nigdi Bhakti Shakti Stand,2026-11-03 04:00:00,2026-11-03 04:30:00,Waterlogging,Medium,18.7997,73.869797
+INC_035,COR_09,Kesnand Phata Wagholi ⇆ Bhekrai Nagar,2026-11-07 04:00:00,2026-11-07 05:30:00,Waterlogging,High,18.4888,74.045998
+INC_036,COR_24,Shivaji Nagar ⇆ Swargate,2026-11-04 16:00:00,2026-11-04 17:00:00,Waterlogging,Medium,18.6495,73.775902
+INC_037,COR_17,Nigdi Bhakti Shakti Stand ⇆ Hadapsar Gadital,2026-11-06 19:00:00,2026-11-06 20:00:00,Signal Failure,High,18.285101,74.141602
+INC_038,COR_16,Kesnand Phata Wagholi ⇆ Ganpati Matha,2026-11-06 03:00:00,2026-11-06 03:45:00,Accident,High,18.6576189004469,73.791145355384
+INC_039,COR_01,Pune Station Moledina Stand ⇆ Swargate,2026-11-04 07:00:00,2026-11-04 08:30:00,Waterlogging,Medium,18.4818,73.959503
+INC_040,COR_07,Megapolis Phase 3 ⇆ Nigdi Bhakti Shakti Stand,2026-11-06 22:00:00,2026-11-06 22:45:00,Signal Failure,Low,18.7997,73.869797
